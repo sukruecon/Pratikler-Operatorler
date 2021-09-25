@@ -1,0 +1,15 @@
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/bin/Debug/net5.0/Operatorler.deps.json
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/bin/Debug/net5.0/Operatorler.runtimeconfig.json
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/bin/Debug/net5.0/Operatorler.runtimeconfig.dev.json
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/bin/Debug/net5.0/Operatorler.dll
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/bin/Debug/net5.0/ref/Operatorler.dll
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/bin/Debug/net5.0/Operatorler.pdb
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.csproj.AssemblyReference.cache
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.AssemblyInfoInputs.cache
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.AssemblyInfo.cs
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.csproj.CoreCompileInputs.cache
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.dll
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/ref/Operatorler.dll
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.pdb
+/Users/sukruakpinar/Desktop/Pratikler/Operatorler/obj/Debug/net5.0/Operatorler.genruntimeconfig.cache
